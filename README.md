@@ -1,4 +1,4 @@
-# deannasmithmlis
+#Parkinsons-Disease-Observations
 Data Curation, Winter 2021
 
 Hello Data Curation Classmates!

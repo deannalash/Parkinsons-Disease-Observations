@@ -1,0 +1,66 @@
+﻿Deanna Ashworth Smith
+Assignment #3 Repository Profile
+February 11, 2021
+
+
+        Picking a repository influenced me to revisit my dataset and pick something more aligned in the repository I found that interested me. My dad was diagnosed with Parkinson’s Disease (PD) in 2003, and I realized that I’d never formally read up on what this neurological disease entailed. I first researched neurological disorders and foundations that help fund research to treat PD, which lead me to the Michael J. Fox Foundation’s FoxDEN, which has its own repository, Fox Insight Data Exploration Network.
+        This repository is extremely defined, as they only collect data within the scope of being related to Parkinson’s disease. Specifically, the repository’s policies and procedures states that the submissions be examples of collected data about research participants demographics, medical information, cognitive experiences compared to physical experiences, symptoms, questionnaires and even genotypes all relating to PD. The foundation does accept all file formats, but did not state any differentiation on what types of data - as long as it relates to Parkinson’s in some way, the data is accepted. As of March 2021, the repository is not open for submissions, but there is a schedule of activities page where patients can fill out questionnaires to submit to the repository and hopeful contributors can put themselves on an alert list when submissions reopen.
+        The dataset that I previously looked into was “Effect of On-Demand Cueing on Freezing of Gait in Parkinson’s Patients” by Rosemarie Velik. Not only would this specific study work well with this repository, but it also monitored the observations of a group of patients specific symptoms. FoxDEN's aim is to create a database of the numerous symptoms a PD patient can experience, which I believe my previous dataset adheres to perfectly.
+        Who can submit to the repository is slightly different than other repositories I’ve seen. Not only can doctors and researchers submit their findings, but patients who have received a PD diagnosis or non-diagnosed participants who have a familial history can submit through the questionnaire portion of the site. FoxDEN currently boasts over 50000 participants in this questionnaire, which is proving to be an impressive tool to group subjects and characteristics for future research endeavors. The site has a portal login if you are a researcher with an institution, but it also has a limited version for patients to use without a login. With my own digging, I was able to find that there is a submission file form where a user can input their institution’s credentials, fill out why they are interested in the repository, and feedback from a live person is available to in case the user doesn’t have the correct qualifications, but still wants access or suggestions to affiliated medical professionals. In other words, a normal person can get permission to gain access to the repository, but any genetic information requires an institutional login.        
+        In addition, there are some missing pieces of what types of data can be submitted and in what formats. For instance, the repository does not state what specific structure the metadata must be in, or if it must adhere to a specific standard. There isn’t any mention of an “Submission Information Package” (SIP). Hopefully when the repository reopens for submissions, this is clarified, but was not at this time.
+        As previously mentioned, there is a required login for this repository, which is also needed to download any files. To create a login, a user must either verify that they are a researcher affiliated with an institution, or that they are a patient who has interest in participating in the questionnaire database. To create a patient login it does require that a user fill out a form listing their neurologist, where FoxDen’s foundation follows up to verify. Because I personally couldn’t obtain a login for the repository, I was unable to find how files are accessed, which the Registry of Research data site didn’t specify either.
+        Unfortunately, because I was unable to login to the repository as a whole, I was unable to clarify any information about what the Dissemination Information Package (DIP) was. The only information that got close to stating what the package information might be was the “Data Use Agreement (https://foxden.michaeljfox.org/insight/resources/Fox_Insight_Data_Use_Agreement_2019-04-29.pdf) which states that due to the genetic material of some of the data, there are monthly data ‘cuts’ where items that have been deemed unnecessary are cut from the collection as a whole.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source:
+Fox Insight Data Exploration Network; editing status 2020-05-06; re3data.org - Registry of Research Data Repositories. http://doi.org/10.17616/R31NJML7

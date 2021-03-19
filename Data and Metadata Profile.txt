@@ -1,0 +1,44 @@
+﻿Deanna Ashworth Smith
+Data Curation: Assignment #2
+January 28, 2021
+New Topic
+
+
+        For this assignment, I found a dataset from zenodo.org, analyzing the effect of five different sensory cues on the duration of freezing episodes in Parkinson’s patients. The motivation comes from the research funded by the World Academy of Science Engineering and Technology, with the intent to design a device that would assist patients with walking. These researchers tested only seven patients with Parkinson’s disease, with five sensory cues while the patient was experiencing an ‘FOG’ or freezing of gait episode. Parkinson’s disease is a neurological disorder affecting the nerve cells in the brain, preventing dopamine from being produced, causing a myriad of nervous system issues including off-kilter balance and unwanted freezing of limbs.
+        The theory is that when a patient experiences a ‘FOG’, sensory cues may help the patient’s brain to wake up and ‘remember’ how to move again. The researchers tested an auditory alert, a vibratory alert, an auditory rhythm, a vibratory rhythm, and a visual cue by projecting parallel lines on the floor. The patients were monitored by an adjacent room while completing the course, as well as by their own personal accounts in an interview afterwards. The conclusion  measured how many seconds shorter a FOG episode lasted, which happened to be accomplished with the auditory alert and the vibratory cues, and not the visual cues.
+        The stakeholders for this research would be the patients involved in the study, who surely were hopeful for a new technology to help relieve these freezing episodes. Stakeholders would also be the World Academy of Science Engineering and Technology (WASET), who funded the research, as well as the author, Rosemarie Velik, who led the team of researchers. The article doesn’t explicitly name the Spanish hospital where the patients were found, but it does name Comité Ético de Investigación Clínica de Euskadi, as the institution that backed the study and deemed it ethical. Because Comité Ético de Investigación Clínica de Euskadi is named, I’d call them a stakeholder as well purely due to their association by name.
+        The main datafile in this dataset is the article itself, which includes several tables showing how the patients fared in the experiment. The first table summarizes each of the seven patients and characterized their symptoms of Parkinson’s disease. There are three stages of Parkinson’s disease and it’s usually around the second stage that a patient will begin to experience a range of tremors or freezing. The table shows that the patients range in age from 69 to 83, and three out of seven have been experiencing tremors so debilitating that they need a walking aid. Not all patients in this study have been experiencing consistent freezing episodes, but four out of the seven patients have experienced falls because of their Parkinson’s.
+        Table 2’s data breaks down how the cues are distributed to each patient and for how long. For example, the vibratory cue consists of three vibrating pulses, each slowly increasing in length (first vibration 0.5 second, second vibration lasts 1 second, et cetera). Additionally, the articles include a diagram of the room where the patients were asked to walk around a small numbered course, each number correlates to a specific task tested.
+        Tables 3 and 4 are actual data sets scoring each patient’s attempt at walking through the course before the cues are given as a baseline, as well as the actual cues given and how they either helped or hurt the freezing episodes. The research was taken over a period of several weeks, always in the morning and always after the patient was given medication. Because Parkinson’s disease treatments are all considered the same types of levodopa therapies, the researchers wanted to rule out medication and instead focus solely on the times each patient experienced. In total, this is one article that can be downloaded as a pdf, with four tables and two corresponding figures.
+        In the sources section of the article, there are a total of 23 resources used. Through my own searching, I found it was not easy to pull up these cites as they come from Neurological disorder institutions whose research has been recently reopened. No software is needed to analyze the data once the pdf is downloaded from zenodo.org 
+        The metadata is fairly simple; a short abstract statement from the author, the amount of recent views, how many downloads have occurred on this file, its unique views, its total size (1.7 MB), where this file is currently indexed in (OpenAire), the publication date, the DOI, keywords, the communities included and finally the creative commons licensing information link. In the bottom right-hand corner of the page, there is citation information as well as the DOI. Additionally the version information is included, noting that there haven’t been any updates since 2013. There does not appear to be any missing metadata, and does not appear to follow any clear standard of metadata structure.
+        The one thing that stands out to me as something that seems to be missing is the inclusion of a simple key. The article includes a few acronyms that the everyday user may not know. The author uses the terms ON-FOG/OFF-FOG several times in the article, but reading through it, it didn’t seem clear what exactly this acronym was. While researchers who know Parkinson’s terms, some patients who received a new diagnosis of Parkinson’s disease may need some things clarified. 
+        This article and it’s data was included in the World Academy of Science, Engineering and Technology International Journal of Medical and Health Sciences Vol:6, No:6, 2012. Apart from the aforementioned journal, it does not appear that this research has been used as a reference from a quick google scholar search.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source:
+Velik, Rosemarie. “Effect of On-Demand Cueing on Freezing of Gait in Parkinson's Patients.” Zenodo, World Academy of Science Engineering and Technology, 6 Sept. 2013, doi.org/10.5281/zenodo.1088086.

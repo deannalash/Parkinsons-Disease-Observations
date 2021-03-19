@@ -4,10 +4,10 @@ Data Curation, Winter 2021
 Hello Data Curation Classmates!
 
 The first file in my repository is my dataset description based on the article and research "Effect of On-Demand Cueing on Freezing of Gait
-in Parkinson’s Patients". This files is a brief description of a 2012 study of Parkinson's Disease patients experiencing 'FOG' or freezing of gait episodes where the patient is stuck in a tremor or cannot walk properly. The assignment describes the dataset, provides feedback for minor improvements in the article, as weell as the current creative commons licensing.
+in Parkinson’s Patients". This files is a brief description of a 2012 study of Parkinson's Disease patients experiencing 'FOG' or freezing of gait episodes where the patient is stuck in a tremor or cannot walk properly. The assignment describes the dataset, provides feedback for minor improvements in the article, as weell as the current creative commons licensing. However, per my classmate's review this file was removed and reuploaded under the name "Data and Metadata Profile".
 
 The second file in my repository describes the proposed repository that I believe would be the best fit for my previous dataset assignment.
-The Michael J. Fox Foundation has a research repository for medical professionals who are working to cure Parkinson's Disease. Often referred to as, FoxDen, this repository holds all research and observations pertaining to Parkinson's disease. A login is required gain access to the full repository, but patients are encouraged to record their own experiences here as well.
+The Michael J. Fox Foundation has a research repository for medical professionals who are working to cure Parkinson's Disease. Often referred to as, FoxDen, this repository holds all research and observations pertaining to Parkinson's disease. A login is required gain access to the full repository, but patients are encouraged to record their own experiences here as well. However, per my classmate's review this file was removed and reuploaded under the name "Repository Profile".
 
 Fig.1 - This is a pdf that shows the course laid out for the patients to walk through. Tasks that the patients were asked to perform throughout the course are also denoted.
 

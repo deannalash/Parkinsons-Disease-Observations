@@ -20,3 +20,12 @@ Table II - A csv of Table 2 in the article; "Description of Used Sensory Cues"
 Table III - A pdf of Table 3 in the article; "Mean and Standard Deviation of Duration of Freezing Episodes in Seconds of Patients in Different Cueing Conditions"
 
 Table IV - A csv of Table 4 in the article; "Point Score Given by Patients to the Different Cues Concerning Their Effectiveness to Reduce FOG Duration."
+
+Preferred Citation for this data set:
+Rosemarie Velik. (2013). Effect of On-Demand Cueing on Freezing of Gait in Parkinson's Patients (Version 16916).
+
+The original data was found through zenodo.org and can found via:
+https://zenodo.org/record/1088086#.YFUWnEhKh_Q
+
+A note on ethics of human subjects as data:
+Due to the anonymity of each patient in the data set, where no descriptive data is included except for the symptoms of Parkinson's Disease, this dataset is considered very low-risk. This study was closely followed up with the code of ethics as established by Comité Ético de Investigación Clínica debEuskadi, and therefore it can be deduced that this was reviewed by a board. Patients were asked to sign a waiver stating the intent of this data.

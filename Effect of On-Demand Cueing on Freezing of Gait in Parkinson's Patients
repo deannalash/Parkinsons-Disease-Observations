@@ -1,0 +1,117 @@
+{
+  "files": [
+    {
+      "links": {
+        "self": "https://zenodo.org/api/files/48222501-edbe-4edf-a7a1-c46bbb3e26f2/16916.pdf"
+      }, 
+      "checksum": "md5:32d72d77fa355d6faa993d567320863f", 
+      "bucket": "48222501-edbe-4edf-a7a1-c46bbb3e26f2", 
+      "key": "16916.pdf", 
+      "type": "pdf", 
+      "size": 122682
+    }
+  ], 
+  "owners": [
+    32148
+  ], 
+  "doi": "10.5281/zenodo.1088086", 
+  "stats": {
+    "version_unique_downloads": 17.0, 
+    "unique_views": 21.0, 
+    "views": 23.0, 
+    "version_views": 23.0, 
+    "unique_downloads": 17.0, 
+    "version_unique_views": 21.0, 
+    "volume": 2330958.0, 
+    "version_downloads": 19.0, 
+    "downloads": 19.0, 
+    "version_volume": 2330958.0
+  }, 
+  "links": {
+    "doi": "https://doi.org/10.5281/zenodo.1088086", 
+    "conceptdoi": "https://doi.org/10.5281/zenodo.1088085", 
+    "bucket": "https://zenodo.org/api/files/48222501-edbe-4edf-a7a1-c46bbb3e26f2", 
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.1088085.svg", 
+    "html": "https://zenodo.org/record/1088086", 
+    "latest_html": "https://zenodo.org/record/1088086", 
+    "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.1088086.svg", 
+    "latest": "https://zenodo.org/api/records/1088086"
+  }, 
+  "conceptdoi": "10.5281/zenodo.1088085", 
+  "created": "2018-01-16T23:20:46.239230+00:00", 
+  "updated": "2020-01-20T16:56:30.680854+00:00", 
+  "conceptrecid": "1088085", 
+  "revision": 5, 
+  "id": 1088086, 
+  "metadata": {
+    "access_right_category": "success", 
+    "doi": "10.5281/zenodo.1088086", 
+    "description": "<p>Gait disturbance, particularly freezing of gait (FOG), is a phenomenon that is common in Parkinson&rsquo;s patients and significantly contributes to a loss of function and independence. Walking performance and number of freezing episodes have been known to respond favorably to sensory cues of different modalities. However, a topic that has so far barely been touched is how to resolve freezing episodes via sensory cues once they have appeared. In this study, we analyze the effect of five different sensory cues on the duration of freezing episodes: (1) vibratory alert, (2) auditory alert, (3) vibratory rhythm, (4) auditory rhythm, (5) visual cue in form of parallel lines projected to the floor. The motivation for this study is to investigate the possibility of the design of a gait assistive device for Parkinson&rsquo;s patients. Test subjects were 7 Parkinson&rsquo;s patients regularly suffering from FOG. The patients had to repeatedly walk a pre-defined course and cues were triggered always 2 s after freezing onset. The effect was analyzed via experimental measurements and patient interviews. The measurements showed that all 5 sensory cues led to a decrease of the average duration of freezing: baseline (7.9s), vibratory alert (7.1s), auditory alert (6.7s), auditory rhythm (6.4s), vibratory rhythm (6.3s), and visual cue (5.3s). Nevertheless, interestingly, patients subjectively evaluated the audio alert and vibratory signals to have a significantly better effect for reducing their freezing duration than the visual cue.</p>", 
+    "language": "eng", 
+    "title": "Effect of On-Demand Cueing on Freezing of Gait in Parkinson's Patients", 
+    "license": {
+      "id": "CC-BY-4.0"
+    }, 
+    "relations": {
+      "version": [
+        {
+          "count": 1, 
+          "index": 0, 
+          "parent": {
+            "pid_type": "recid", 
+            "pid_value": "1088085"
+          }, 
+          "is_last": true, 
+          "last_child": {
+            "pid_type": "recid", 
+            "pid_value": "1088086"
+          }
+        }
+      ]
+    }, 
+    "communities": [
+      {
+        "id": "waset"
+      }
+    ], 
+    "version": "16916", 
+    "references": [
+      "S. Bagley, B. Kelly, N. Tunnicliffe, G. I. Turnbull, and J. M. Walker. \nThe effect of visual cues on the gait of independently mobile parkinson's \ndisease patients. Physiotherapy, 77:415\u2013420, 1991.", 
+      "M. E. Morris, R. Iansek, T. A. Matyas, and J. J. Summers. Stride length \nregulation in parkinson's disease. Normalization strategies and \nunderlying mechanisms. Brain, 119 (Pt 2):551\u2013568, Apr 1996.", 
+      "J. P. Azulay, C. Van Den Brand, D. Mestre, O. Blin, I. Sangla, J. Pouget, \nand G. Serratrice. Automatic motion analysis of gait in patients with \nparkinson disease: effects of levodopa and visual stimulations. Rev \nNeurol (Paris), 152(2):128\u2013134, Feb 1996.", 
+      "J. P. Azulay, S. Mesure, B. Amblard, O. Blin, I. Sangla, and J. Pouget. \nVisual control of locomotion in parkinson's disease. Brain, 122 (Pt \n1):111\u2013120, Jan 1999.", 
+      "G. N. Lewis, W. D. Byblow, and S. E. Walt. Stride length regulation in \nparkinson's disease: the use of extrinsic, visual cues. Brain, 123 (Pt \n10):2077\u20132090, Oct 2000.", 
+      "W. Enzensberger, P. A. Fischer. Metronome in parkinson's disease. \nLancet, 347, 1996.", 
+      "G.C McIntosh, S.H. Brown, R.R. Rice, and M.H. Thaut. Rhythmic \nauditory-motor facilitation of gait patterns in patients with parkinson's \ndisease. J. Neurol. Neurosurg. Psychiatry, 62:22\u201326, 1997.", 
+      "N. Ito, A. Hayshi, W. Lin, N. Ohkoshi, M. Watanabe, and S. Shoji. \nIntegrated human brain science: theory, method, application (music), \nchapter Music therapy in parkinson's disease: Improvement of \nParkinsonian gait and depression with rhythmic auditory stimulation, \npages 435\u2013443. Elsevier, 2000.", 
+      "P. Arias and J. Cudeiro. Effect of Rhythmic Auditory Stimulation on \nGait in Parkinsonian Patients with and without Freezing of Gait, PLoS \nONE 5(3): e9675. doi:10.1371/journal.pone.0009675, 2010. \n[10] M. S. Bryant. An evaluation of self-administration of auditory cueing to \nimprove gait in people with Parkinson's disease, Disabil Rehabil Assist \nTechnol. 4(5): 357\u2013363, 2009. \n[11] E. van Wegen, C. de Goede, I. Lim, M. Rietberg, A. Nieuwboer, A. \nWillems, D. Jones, L. Rochester, V. Hetherington, and H. Berendse. The \neffect of rhythmic somatosensory cueing on gait in patients with \nparkinson's disease. Journal of the Neurological Sciences, 248:210\u2013214, \n2006. \n[12] M. A. Dietz, C. G. Goetz, and G. T. Stebbins. Evaluation of a modified \ninverted walking stick as a treatment for parkinsonian freezing episodes. \nMov Disord, 5(3):243\u2013247, 1990. \n[13] K. Kompoliti, C. G. Goetz, S. Leurgans, M. Morrissey, and I. M. Siegel, \n\"On\" freezing in Parkinson's disease: Resistance to visual cue walking \ndevices, Movement Disorders, Volume 15 Issue 2, Pages 309\u2013312, \n2001. \n[14] E. Cubo, S. Leurgans, and C. G. Goetz. Short-term and practice effects \nof metronome pacing in Parkinson's disease patients with gait freezing \nwhile in the 'on' state: randomized single blind evaluation. Parkinsonism \nand Related Disorders, 10(8), 507-510, 2004 \n[15] A. Burleigh-Jacobs, F. B. Horak, J. G. Nutt, and J. A. Obeso. Step \ninitiation in parkinson's disease: influence of levodopa and external \nsensory triggers. Mov Disord, 12(2):206\u2013215, Mar 1997. \n[16] L. E Dibble, D. E Nicholson, B. Shultz, B. A. MacWilliams, R. L. \nMarcus, and C. Moncur. Sensory cueing effects on maximal speed gait \ninitiation in persons with parkinson's disease and healthy elders. Gait \nPosture, 19(3):215\u2013225, Jun 2004. \n[17] Y. Jiang and K. E. Norman. Effects of visual and auditory cues on gait \ninitiation in people with parkinson's disease. Clin Rehabil, 20(1):36\u201345, \nJan 2006. \n[18] A. Nieuwboer, K. Baker, A.-M. Willems, D. Jones, J. Spildooren, I. Lim, \nG. Kwakkel, E. Van Wegen, and L. Rochester. The short-term effects of \ndifferent cueing modalities on turn speed in people with parkinson's \ndisease. Neurorehabil Neural Repair, 23(8):831\u2013836, Oct 2009. \n[19] A.-M. Willems, A. Nieuwboer, F. Chavret, K. Desloovere, R. Dom, L. \nRochester, G. Kwakkel, E. van Wegen, and D. Jones. Turning in \nparkinson's disease patients and controls: The effect of auditory cues. \nMovement Disorders, 21:1871\u20131878, 2007. \n[20] R. Velik, U. Hoffmann, H. Zabaleta, and J. F. Mart\u00ed-Mass\u00f3. Effect of \nsensory cues applied at the onset of freezing episodes in parkinson's \ndisease patients, International Journal of Medical and Biological \nSciences, Volume 6, pp. 57\u201362, 2012. \n[21] R. Velik, U. Hoffmann, H. Zabaleta, J. F. Mart\u00ed Mass\u00f3, and T. Keller. \nThe effect of visual cues on the number and duration of freezing \nepisodes in parkinson's patients, EMBS, 2012. \n[22] N. Giladi, H. Shabtai, E. S. Simon, S. Biran, J. Tal, and A. D. Korczyn, \nConstruction of freezing of gait questionnaire for patients with \nParkinsonism, Parkinsonism and Related Disorders 6 (2000) 165\u2013170. \n[23] K. Kompoliti, C. G. Goetz, S. Leurgans, M. Morrissey, and I. M. Siegel. \n''On'' freezing in parkinson's disease: resistance to visual cue walking \ndevices. Mov. Disord 15: 309\u2013312, 2000."
+    ], 
+    "keywords": [
+      "Auditory cueing", 
+      "freezing of gait", 
+      "gait assistance", 
+      "Parkinson's disease", 
+      "vibratory cueing", 
+      "visual cueing"
+    ], 
+    "publication_date": "2013-09-06", 
+    "creators": [
+      {
+        "name": "Rosemarie Velik"
+      }
+    ], 
+    "access_right": "open", 
+    "resource_type": {
+      "subtype": "article", 
+      "type": "publication", 
+      "title": "Journal article"
+    }, 
+    "related_identifiers": [
+      {
+        "scheme": "doi", 
+        "identifier": "10.5281/zenodo.1088085", 
+        "relation": "isVersionOf"
+      }
+    ]
+  }
+}
